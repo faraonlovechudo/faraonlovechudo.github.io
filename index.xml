@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Chudo</title>
+    <link>https://example.org/</link>
+    <description>Recent content in Home on Chudo</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 21 May 2024 20:02:04 +0200</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Tue, 21 May 2024 20:02:04 +0200</pubDate>
+      <guid>https://example.org/about/</guid>
+      <description>About me puedes llamarme chudo, xudo, txudo</description>
+    </item>
+  </channel>
+</rss>
