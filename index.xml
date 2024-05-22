@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Chudo</title>
-    <link>https://example.org/</link>
+    <link>https://faraonlovechudo.github.io/</link>
     <description>Recent content in Home on Chudo</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Wed, 22 May 2024 23:37:18 +0200</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://faraonlovechudo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>https://example.org/posts/first-post/</link>
+      <link>https://faraonlovechudo.github.io/posts/first-post/</link>
       <pubDate>Wed, 22 May 2024 23:37:18 +0200</pubDate>
-      <guid>https://example.org/posts/first-post/</guid>
+      <guid>https://faraonlovechudo.github.io/posts/first-post/</guid>
       <description>un post así chulo para probar</description>
     </item>
     <item>
       <title>about</title>
-      <link>https://example.org/about/</link>
+      <link>https://faraonlovechudo.github.io/about/</link>
       <pubDate>Tue, 21 May 2024 20:02:04 +0200</pubDate>
-      <guid>https://example.org/about/</guid>
+      <guid>https://faraonlovechudo.github.io/about/</guid>
       <description>About me puedes llamarme chudo, xudo, txudo</description>
     </item>
   </channel>
