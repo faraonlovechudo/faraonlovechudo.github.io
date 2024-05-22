@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Chudo</title>
-    <link>https://example.org/posts/</link>
+    <link>https://faraonlovechudo.github.io/posts/</link>
     <description>Recent content in Posts on Chudo</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Wed, 22 May 2024 23:37:18 +0200</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://faraonlovechudo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>https://example.org/posts/first-post/</link>
+      <link>https://faraonlovechudo.github.io/posts/first-post/</link>
       <pubDate>Wed, 22 May 2024 23:37:18 +0200</pubDate>
-      <guid>https://example.org/posts/first-post/</guid>
+      <guid>https://faraonlovechudo.github.io/posts/first-post/</guid>
       <description>un post así chulo para probar</description>
     </item>
   </channel>
